@@ -1,4 +1,4 @@
-name: al-ameen  pipeline
+name: al-ameen terraform pipeline
 
 on:
     push:
